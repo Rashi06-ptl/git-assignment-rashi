@@ -9,3 +9,16 @@ body{
 h1{
     text-align: center;
 }
+
+body {
+  background-color: #f0f0f0; /* Sets the background color of the entire page */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Defines the default font */
+  margin: 20px; /* Adds space around the body content */
+}
+
+p {
+  color: #333333; /* Sets the text color for all paragraphs */
+  border: 2px solid powderblue; /* Adds a solid, light blue border around paragraphs */
+  padding: 15px; /* Adds space between the text and the border */
+  margin: 10px 0; /* Adds space above and below paragraphs */
+}
